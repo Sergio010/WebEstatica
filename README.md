@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# WebEstatica
 PaginaWeb: Un Poco de Azúcar
 
 ## Descripción
