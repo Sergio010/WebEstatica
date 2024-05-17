@@ -7,6 +7,7 @@ PaginaWeb: Un Poco de Azúcar
 ## Arquitectura 
 Esta conformada por dos archivos principales, "index.html" el cual contiene toda la implementacion de elementos visuales de la pagina, y otro archivo llamado "estilos.css" en el cual se aplican diferentes
 estilos y personalizacion a la pagina web.
+![Maquetación](/img/maqueta.png)
 
 
 ## Uso
